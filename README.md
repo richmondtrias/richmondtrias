@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/richmondtrias/threat-hunting-scenario-tor)**
-- **[Insider_Threat_Scenario](https://github.com/richmondtrias/insider-threat-scenario)**
+- **[Insider Threat Scenario](https://github.com/richmondtrias/insider-threat-scenario)**
 
 <hr/>
 
