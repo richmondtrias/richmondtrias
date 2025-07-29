@@ -23,7 +23,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\STIG-ID-WN10-CC-000005).ps1 
+    PS C:\> .\STIG-ID-WN10-AU-000505).ps1 
 #>
 
 $registryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Security"
