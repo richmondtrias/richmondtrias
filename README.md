@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/richmondtrias/threat-hunting-scenario-tor)**
 - **[Insider Threat Scenario](https://github.com/richmondtrias/insider-threat-scenario)**
+- **[Threat Hunting Scenario](https://github.com/richmondtrias/Threat-Hunt-Zero-Day-Ransomware-PwnCrypt-on-Windows-VM)**
 
 <hr/>
 
